@@ -37,4 +37,4 @@ python3 main.py copy image from /home/xana/Bureau/snB
  You may need to execute the script as a super user 'sudo' if you are working with some privileged files 
 
  # Buy me a coffee if i helped you :
- [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+ [![paypal me !!!](http://assabbane.com/paypal/paypal.png)](http://assabbane.com/paypal/)
