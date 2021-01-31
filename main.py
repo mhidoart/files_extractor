@@ -66,8 +66,8 @@ class Type_Extractor():
     #copy_extracted_files()
 
     def start_extracting(self):
-        if len(sys.argv) < 7:
-            print(""" ! you have at least to enter 6 params such as 'copy images from ./example [ to /root/somefolder]' !""") 
+        if len(sys.argv) < 5:
+            print(""" ! you have at least to enter 5 params such as 'copy images from ./example [ to /root/somefolder]' !""") 
         else:
             # convert entered params to lowercase strings
             for item in sys.argv:
